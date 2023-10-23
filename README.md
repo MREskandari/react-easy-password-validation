@@ -101,7 +101,7 @@ function App() {
 
 | Props | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `ruleSet` | `Array<{regex: String \| RegExp}>` | **Required** |
+| `ruleSet` | `Array<{regex: String \| RegExp, message: String}>` | **Required** |
 | `passwordValue` | `String` | **Required** |
 | `passedRuleClassName` | `String` representing passed rule class name (default is `text-success`) | **Optional** |
 | `failedRuleClassName` | `String` representing failed rule class name (default is `text-danger`) | **Optional** |

@@ -2708,10 +2708,10 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-easy-password-validation@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-easy-password-validation/-/react-easy-password-validation-1.0.0.tgz#89778730fa12f6abd5e526fdc28bb072f2d4628e"
-  integrity sha512-XX/2CxJA1KqlWw+Y5jMD1XFKzrHrXpxbzVlRaFUQaa7x/pTy+kFhKAgr1xiq/kC1KHQVwlqMaqUbX0oaE2GD6g==
+react-easy-password-validation@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-easy-password-validation/-/react-easy-password-validation-1.0.3.tgz#0062819015effd72bec821cb47cf40b9562f0585"
+  integrity sha512-FrLyyFPOwq4asUJzZ4wkWR8ZXEgQ/Bg+r+IstO5KjcNnFvAO13cLxnOcIL2w4ux8y4+dq3ag5qKuJxwODc0lHQ==
 
 react-error-overlay@6.0.9:
   version "6.0.9"

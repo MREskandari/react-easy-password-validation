@@ -1,6 +1,6 @@
 {
   "name": "react-easy-password-validation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React component for validation input password via specified rules set",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
